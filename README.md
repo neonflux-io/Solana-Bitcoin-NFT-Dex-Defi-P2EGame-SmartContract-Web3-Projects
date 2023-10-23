@@ -30,20 +30,20 @@ This is pump.fun project on Solana/Ethereum network. Launch a coin that is insta
 - Live_1: <a href="https://app.ape.lol/">Pump Fun</a>
 - Live_2: <a href="https://fairlaunch.kommunitas.net/">Boilerplate Pump Fun</a>
 - Github repos: 
-  - Smart Contract repo: <a href="https://github.com/0xapp123/Pump.fun-Smart-Contract">Pump.fun-Smart Contract</a>
+  - Smart Contract repo: <a href="https://github.com/xtoshi999/Pump.fun-Smart-Contract">Pump.fun-Smart Contract</a>
 
 
 <h3><u><strong><i>BRC20 Airdrop</i></strong></u> &nbsp;(Bitcoin)</h3>
 <hr />
 
 This is a BRC20 token Airdrop project on Bitcoin network. Bitmap ordinal owners can airdrop BRC20 tokens to taproot address.
-<img align="right" height="200px" src="https://github.com/0xapp123/-MY-Projects-README-/assets/36965207/73b80e83-0e94-48a9-9294-7718f97ec1d9">
+<img align="right" height="200px" src="https://github.com/xtoshi999/-MY-Projects-README-/assets/36965207/73b80e83-0e94-48a9-9294-7718f97ec1d9">
 
 BmpBrc is a BRC20 airdrop platform in Bitcoin Network. I get user's taproot address and check user is bitmap ordinal owner or not. Integrate Unisat, Leader, XVerse wallets in Frontend and used PSBT, bitcoinjs lib for deploy, mint and send BRC20 tokens to user's taproot address. Get familiar with Ordinal technology(like utxo, psbt, inscribe), I can make the Bitcoin Defi project use Orinal or BRC20 tokens.
 - Live: <a href="https://bmpbrc.com/">BMP BRC20</a>
 - Github repos: 
-  - backend repo: <a href="https://github.com/0xapp123/BRC20-withdraw-BE">BRC20-Backend</a>
-  - frontend repo: <a href="https://github.com/0xapp123/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
+  - backend repo: <a href="https://github.com/xtoshi999/BRC20-withdraw-BE">BRC20-Backend</a>
+  - frontend repo: <a href="https://github.com/xtoshi999/BRC20-Withdraw-Unisat">BRC20-Frontend</a>
 
 
 <h3><u><strong><i>Wheel Game</i></strong></u> &nbsp;(Solana)</h3>
@@ -59,7 +59,7 @@ This is the wheel game by using $TOKE tokens on Solana. The spin result will be 
 
 
 - Github repo: 
-  - Wheel Game FE: <a href="https://github.com/0xapp123/Wheel-Game-FE" target="_blank">BE code</a>
+  - Wheel Game FE: <a href="https://github.com/xtoshi999/Wheel-Game-FE" target="_blank">BE code</a>
 
  
 <h3><u><strong><i>Inkubate Marketplace</i></strong></u> &nbsp;(Ethereum)</h3>
@@ -116,22 +116,6 @@ Yieldz is the first multi Layered real-yield DeFi ecosystem. Our mission is to p
   - Yieldz Protocol Smart Contract: <a href="https://github.com/dev-tom-0108/Double_yield_staking_solidity" target="_blank">Smart Contract code</a>
   
 - Social Link: <a href="https://twitter.com/Yieldzprotocol" target="_blank">The Yieldz-twitter</a>
-
-
-
-<h3><u><strong><i>Cardano Solt Game</i></strong></u> &nbsp;(Cardano)</h3>
-<hr />
-
-This is web3 Play-To-Earn Game (slot) based on Cardano blockchain network.
-
-<img align="right" width="400px" src="https://github.com/dev-tom-0108/-MY-Projects-README-/assets/29230603/8ef19696-adbd-4a38-8442-cb5fec43dc45">
-Users can enjoy this game using various Cardano tokens like ADA cardano native token and other Cardano tokens.
-Greetings, space explorers of NEBULA! We're excited to announce that we've launched a brand new VIP area on the NEBULA site, designed exclusively for our dedicated members who are passionate about the wonders of the universe.
-
-Attended this project as a fullstack blockchain developer.
-- Live: <a href="https://www.spacerace.site">Spacerace</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/SLOTs_BE_Cardano">Backend Code</a>
-
 
 
 <h3><u><strong><i>Degen Taxi</i></strong></u> &nbsp;(Solana)</h3>
@@ -307,54 +291,6 @@ This is burning mechanism to burn NFTs have no metadata in Masked Ape collection
 - Magic Eden: <a href="https://magiceden.io/marketplace/maskedapedao">maskedapedao</a>
 - Offical Links: <a href="https://maskedapedao.xyz">Anonymous Masked Ape DAO</a>
 - Github repo: <a href="https://github.com/dev-tom-0108/Burning_Masked_Ape">Burning_Masked_Ape</a>
-
-
-<h3><u><strong><i>Wild West Verse</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height = "150px" src="https://www.kupicrypto.com/wp-content/uploads/2022/01/Wild-West-Verse.jpg" >
-  
-You can participate to the WWV Lottery and the WWV Auction, stake your $WWV Token or sell it on the market with the stakes you earn.
-  
-- Staking Link: <a href="https://staking.wildwestverse.io" target="_blank">WWV Staking</a>
-  - RANK /DAILY PRIZE -> 1500-2000 /1$WWV, 1000-1499 /1.5$WWV, 600-999 /2$WWV, 300-599 /2.5$WWV, 200-299 /3$WWV, 51-199 /4$WWV, 1-50 /5$WWV
-  - If your NFT is rarer you will get more staking reward.
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.wildwestverse.com" target="_blank">Wild West Verse</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/WorldWiseVerse-Staking" target="_blank">WWV-NFT-Staking</a>
-
-<h3><u><strong><i>Kingdom of Dwarves</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height = "220x" src="https://pbs.twimg.com/media/FNma6xqWYAI6Xzt?format=jpg&name=large" >
-
-Multiple Factor Rewards Staking program for Kingdom of Dwarves NFT collections
-  
-- Create KCRWN token: Link--> <a href="https://solscan.io/token/56bFarytGNPXnA34WbghfHoHQJ7NqKSKyTSnfmACdYtk#holders" target="_blank">KCRWN</a>
-- Staking Link: <a href="http://16.170.178.222:3001" target="_blank">KCRWN Staking</a>
-  - users can reward according to their NFT rare
-  - Whenever you want. But keep in mind that you won't be able to get any more staking income.
-- Original Link: <a href="https://www.kingdomofdwarves.io" target="_blank">Kingdom of Dwarves</a>
-- Github repo: <a href="https://github.com/dev-tom-0108/KoD-NFT-Staking" target="_blank">Dwarves-staking</a>
-- Kod Story: <a href="https://kod-app.netlify.app/" target="_blank">KoD-Story</a>
- 
-<!-- <h3><u><strong><i>FLWR Staking</i></strong></u> &nbsp;(Solana)</h3>
-<hr />
-
-<img align="right" height = "220px" src="https://assets.coingecko.com/coins/images/23534/large/FLWR-Token-Front-ALPHA.png?1644387944" >
-
-Staking an SPL token "FLWR"
-
-- Link: <a href="https://majestic-alpaca-f02e82.netlify.app" target="_blank">FLWR Staking</a>
-- Live URL: <a href="https://flwrstaking.solflowers.io/" target="_blank">SOL Flowers Staking</a>
-  - number of flwr (spl-token) - 50/75/100%
-  - reward period/lock time  - 4/6/12 month
-  - interest  - 3%/6%/12%
-  - penalties for early withdrawl - 6/12/24%
-  - transaction fee < .1 sol
-- Original Link: <a href="https://dex.solflowers.io" target="_blank">FLOWERS Solana Marketplace</a>
-- Github repo : <a href="https://github.com/dev-tom-0108/FLOWER-spl-staking" target="_blank">FLWR-staking</a>
-     -->
 
 <h3><u><strong><i>Luvami Gambling</i></strong></u> &nbsp;(Solana)</h3>
 <hr />
